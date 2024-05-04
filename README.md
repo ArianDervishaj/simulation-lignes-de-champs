@@ -1,8 +1,12 @@
 # Travail pratique - Lignes de champs électriques
 
-## Contexte
+## Contexte:
 
-Le but de ce travail pratique était de simuler les lignes de champs électriques générées par un ensemble de particuels chargées à l'aide du langage C. Ce concept, étudié en cours, consiste à représenter numériquement les champs électriques induits par ces particules dans un espace donné, en utilisant des vecteurs pour visualiser les forces électriques agissant sur des charges de test.
+Ce projet a été réalisé dans le cadre du cours de physique à l'HEPIA (Haute École du Paysage, d'Ingénierie et d'Architecture de Genève). L'objectif était de mettre en pratique les concepts de physique à travers la simulation de lignes de champs électriques générées par un ensemble de particules chargées.
+
+## Description:
+
+Ce programme simule les lignes de champs électriques en utilisant le langage C. Il prend en compte les charges électriques et calcule les champs électriques résultants, puis trace les lignes de champs correspondantes. La simulation permet de visualiser le comportement du champ électrique en présence de multiples particules chargées.
 
 ## Lancer le projet
 
